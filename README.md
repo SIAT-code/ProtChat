@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 <div align="center">
 <h2>ProtChat: An AI Multi-Agent for Automated Protein Analysis Leveraging GPT-4 and Protein Multimodal Model</h2>
 
