@@ -13,7 +13,6 @@
 
 <p align="center"><img src="./figures/Figure1.svg" alt=""></p>
 
-
 ## Setup
 
 Clone the repository and navigate into the directory:
