@@ -13,6 +13,10 @@
 
 <p align="center"><img src="./figures/Figure1.svg" alt=""></p>
 
+## Website
+
+we have developed a [website](http://protchat-tool.online:8512) that allows users from any computer background to use it without the need to pay for a GPT-4 API Key.
+
 ## Setup
 
 Clone the repository and navigate into the directory:
