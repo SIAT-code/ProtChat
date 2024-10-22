@@ -7,7 +7,7 @@
 
 </div>
 
-<p align="center"><img src="./figures/Figure1.svg" alt=""></p>
+<p align="center"><img src="./figures/Figure1.svg" alt="" width="600"></p>
 
 ## Website
 
