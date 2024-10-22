@@ -7,10 +7,6 @@
 
 </div>
 
-
-<p align="center" style="text-align:justify">
-<strong>Abstract</strong>: Large language models (LLMs) have transformed natural language processing, enabling advanced human-machine communication. Similarly, in computational biology, protein sequences are interpreted as natural language, facilitating the creation of protein large language models (PLLMs). However, existing LLMs cannot perform specific protein tasks well, and applying PLLMs requires extensive preprocessing and tuning, creating a significant gap between these technologies. Here, we propose ProtChat, an AI multi-agent for protein analysis that integrates the predictive power of PLLMs with the conversational abilities of LLMs. ProtChat combines GPT-4 with the multimodal PLLM MASSA, automating tasks such as protein property prediction and protein-drug interactions. This AI agent allows users to input instructions directly, significantly improving efficiency and usability. Experiments demonstrate that ProtChat automates complex protein tasks with high accuracy, reducing manual intervention and increasing prediction speed. This advancement opens new research avenues in computational biology and drug discovery. Future applications may extend ProtChat's capabilities to broader biological data analysis. </p>
-
 <p align="center"><img src="./figures/Figure1.svg" alt=""></p>
 
 ## Website
