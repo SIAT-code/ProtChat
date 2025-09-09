@@ -11,9 +11,9 @@
 <img src="./figures/Figure1.svg" alt="Figure" width="600">
 </p>
 
-## Website
+<!-- ## Website
 
-we have developed a [website](https://protchat-tool.siat.ac.cn/) that allows users from any computer background to use it without the need to pay for a GPT-4 API Key. Future maintenance and updates follow this standard.
+we have developed a [website](https://protchat-tool.siat.ac.cn/) that allows users from any computer background to use it without the need to pay for a GPT-4 API Key. Future maintenance and updates follow this standard. -->
 
 ## Setup
 
